@@ -4,3 +4,6 @@ signal
 flux
 deathlabel
 forum
+rice28
+scooter
+ogasaka
