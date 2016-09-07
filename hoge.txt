@@ -1,2 +1,4 @@
 hoge
 Renamed hoge to hoge.txt on this file name
+huga
+huga
