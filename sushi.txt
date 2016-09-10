@@ -7,3 +7,4 @@ hotate
 negitoro
 ika
 buri
+ebi
