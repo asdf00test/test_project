@@ -5,3 +5,4 @@ hamachi
 engawa
 hotate
 negitoro
+ika
