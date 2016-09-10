@@ -3,3 +3,5 @@ ikura
 uni
 hamachi
 engawa
+hotate
+negitoro
