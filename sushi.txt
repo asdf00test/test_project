@@ -6,3 +6,4 @@ engawa
 hotate
 negitoro
 ika
+buri
